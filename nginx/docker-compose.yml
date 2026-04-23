@@ -9,4 +9,4 @@ services:
       - "80:80"  # Map host port 80 to container port 80
     volumes:
       - ./nginx.conf:/etc/nginx/conf.d/nginx.conf  # Mount custom nginx config file
-    restart: always  # Automatically restart container if it crashes
+    restart: always  # Automatically restart container if it crashes
