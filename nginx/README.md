@@ -71,4 +71,4 @@ This directory contains all necessary files to set up an NGINX server using Dock
 
 ---
 
-For more information about the project, refer to the main [README.md](../README.md) file. Thanks for checking out this NGINX Docker setup!
+For more information about the project, refer to the main [README.md](../README.md) file. Thanks for checking out this NGINX Docker setup!
