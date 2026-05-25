@@ -11,4 +11,4 @@ declare module "swagger-ui-react" {
   const SwaggerUI: FunctionComponent<SwaggerUIProps>;
 
   export default SwaggerUI;
-}
+}
