@@ -46,4 +46,4 @@ export const getAppTheme = (isDarkMode: boolean) =>
         },
       },
     },
-  });
+  });
