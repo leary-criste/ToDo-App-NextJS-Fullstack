@@ -69,4 +69,4 @@ export async function DELETE(request: Request) {
     (todo) => !(todo.id === id && todo.userId === parseInt(userId)),
   );
   return NextResponse.json({ message: "Task deleted successfully" });
-}
+}
